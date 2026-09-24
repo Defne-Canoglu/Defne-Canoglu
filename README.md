@@ -1,4 +1,4 @@
-# Hi, I'm Defne Canoğlu 👋
+# Hi, I'm Defne Canoğlu 
 
  Student researcher interested in **Aerospace Engineering, Artificial Intelligence and Robotics**.
 
